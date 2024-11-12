@@ -9,4 +9,4 @@ Develop a React-based Kanban-board app that interfaces with the provided API by 
 
 <kbd>![](https://github.com/sakshik21/Quicksell-Frontend-Assignment/blob/997ae322c405598c9f175bb37f3844f6c1a80f20/Screenshots/Grouping%20by%20Priority.png)</kbd>
 
-<kbd>![](https://drive.google.com/file/d/1iENY_BYqHeZr0yxL3GhzUMMPc7KPx5ZM/view?usp=sharing)</kbd>
+<kbd>![](https://github.com/sakshik21/Quicksell-Frontend-Assignment/blob/eb63fbf3f02efabe50c6b25623e4323d2fc53d91/Screenshots/Grouping%20by%20User.png)</kbd>
