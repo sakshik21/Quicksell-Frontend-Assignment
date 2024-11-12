@@ -5,7 +5,7 @@ Develop a React-based Kanban-board app that interfaces with the provided API by 
 
 ## Project View
 
-<kbd>![](Screenshots/Display State.png)</kbd>
+<kbd>![](https://github.com/sakshik21/Quicksell-Frontend-Assignment/blob/f76285bf0bdf0b460522289a624630dcdc641354/Screenshots/Display%20State.png)</kbd>
 
 <kbd>![](https://drive.google.com/file/d/17CuVQppbIA0RO0lk5VjUIhWUfB71YytO/view?usp=sharing)</kbd>
 
